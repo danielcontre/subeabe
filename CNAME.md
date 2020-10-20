@@ -1,3 +1,0 @@
-abesube.ga
-DNS1.P05.NSONE.NET
-DNS2.P05.NSONE.NET
